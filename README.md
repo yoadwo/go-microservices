@@ -7,7 +7,7 @@ repo includes a "monolith" server, and which gets the time and the date from two
 Assuming working directory to be `./go-microservices`:
 
 ### The Monolith
-copy to /go-microservices/monolith/main.go
+copy to /go-microservices/monolith/monolith.go
 open a terminal
 `$ go run ./monolith/main.go`
 
